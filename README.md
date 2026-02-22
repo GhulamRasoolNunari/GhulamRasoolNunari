@@ -73,7 +73,7 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GhulamRasoolNunari&theme=tokyonight&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GhulamRasoolNunari&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
