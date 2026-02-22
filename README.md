@@ -60,8 +60,12 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GhulamRasoolNunari&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhulamRasoolNunari&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GhulamRasoolNunari&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhulamRasoolNunari&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GhulamRasoolNunari&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
